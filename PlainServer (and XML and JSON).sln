@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlainClient", "PlainClient\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{304C906E-A0C9-49E4-A3C7-BC5864302AE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlServer", "XmlServer\XmlServer.csproj", "{FDDF7A5A-E06B-4436-9B05-F2F193B3443D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlClient", "XmlClient\XmlClient.csproj", "{DFC29DFA-B4BF-461C-8912-FC885C5F7E36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{304C906E-A0C9-49E4-A3C7-BC5864302AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{304C906E-A0C9-49E4-A3C7-BC5864302AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{304C906E-A0C9-49E4-A3C7-BC5864302AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDF7A5A-E06B-4436-9B05-F2F193B3443D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDF7A5A-E06B-4436-9B05-F2F193B3443D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDF7A5A-E06B-4436-9B05-F2F193B3443D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDF7A5A-E06B-4436-9B05-F2F193B3443D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC29DFA-B4BF-461C-8912-FC885C5F7E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC29DFA-B4BF-461C-8912-FC885C5F7E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC29DFA-B4BF-461C-8912-FC885C5F7E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC29DFA-B4BF-461C-8912-FC885C5F7E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
