@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlainServer (and XML and JSON)", "PlainServer (and XML and JSON)\PlainServer (and XML and JSON).csproj", "{269703A7-CFA8-41C2-B505-C759044C42BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269703A7-CFA8-41C2-B505-C759044C42BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269703A7-CFA8-41C2-B505-C759044C42BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269703A7-CFA8-41C2-B505-C759044C42BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269703A7-CFA8-41C2-B505-C759044C42BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3752883-6006-4F73-AFED-33F2B3DF6EB9}
+	EndGlobalSection
+EndGlobal
